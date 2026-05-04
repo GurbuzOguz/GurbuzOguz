@@ -42,12 +42,6 @@
 
 ---
 
-### GitHub istatistikleri
-
-<div align="center">
-<img height="165" src="https://streak-stats.demolab.com/?user=GurbuzOguz&theme=tokyonight&hide_border=true&locale=tr" alt="Katkı serisi" />
-</div>
-
 ### Katkı grafiği — yılan
 
 <div align="center">
