@@ -19,7 +19,7 @@
 - 🔭 Şu sıralar **oyun programlama** üzerine yoğunlaşıyorum; yeni çıkan oyunları ve **demoları** deneyip sektördeki yenilikleri takip ediyorum.
 - 🧳 Bu aralar **şehir şehir geziyorum** — yeni yerler, yeni ilhamlar.
 - 🏆 Öne çıkarılacak sabit bir repo yok; **case’ler** ve portföy işleri tarafı hep hareket halinde, uygun zamanda buraya da taşırım.
-- 💼 **LinkedIn:** [Profilime git](https://www.linkedin.com/in/oguzgurbuz/)
+- 💼 **LinkedIn:** [Profilime git](https://www.linkedin.com/in/oguzgurbuz/), yaptığım daha önceki projelere profilimden ulaşabilirsiniz.
 
 ---
 
@@ -31,7 +31,7 @@
   <img src="https://img.shields.io/badge/Shader%20Graph-000000?style=flat&logo=unity&logoColor=white" alt="Shader Graph" />
 </p>
 
-- 🎨 **Shader Graph** ile ihtiyaca göre basit shader / görsel efektler çıkarıyorum; proje büyüdükçe derinleştiririm.
+- 🎨 **Shader Graph** ile ihtiyaca göre basit shader / görsel efektler çıkarıyorum. Zamanla teknik kapasitesi yüksek shaderlar da üretirim.
 - 🌱 **Godot** ve **Unreal Engine** ile ufak tefek şeyler denedim; ustası değilim ama meraklıyım, zamanla oturtacağım.
 
 ---
