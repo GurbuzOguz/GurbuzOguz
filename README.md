@@ -15,7 +15,7 @@
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/SWoWkN2DExTszqIKEqv/giphy.gif" alt="Kodlama" width="500" />
+<img src="https://drive.google.com/uc?export=view&id=1V48artA1QCdztwk3VD9uK7cNdn3hMgZf" alt="Profil animasyonu" width="500" />
 
 </div>
 
