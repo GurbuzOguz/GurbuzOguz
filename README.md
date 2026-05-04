@@ -19,7 +19,7 @@
 - 🔭 Şu sıralar **oyun programlama** üzerine yoğunlaşıyorum; yeni çıkan oyunları ve **demoları** deneyip sektördeki yenilikleri takip ediyorum.
 - 🧳 Bu aralar **şehir şehir geziyorum** — yeni yerler, yeni ilhamlar.
 - 🏆 Öne çıkarılacak sabit bir repo yok; **case’ler** ve portföy işleri tarafı hep hareket halinde, uygun zamanda buraya da taşırım.
-- 💼 **LinkedIn:** [Profilime git](https://www.linkedin.com/in/buraya-linkedin-kullanici-adin) ← `buraya-linkedin-kullanici-adin` kısmını kendi profil yolunla değiştirmen yeterli.
+- 💼 **LinkedIn:** [Profilime git](https://www.linkedin.com/in/oguzgurbuz/)
 
 ---
 
