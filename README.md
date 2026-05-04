@@ -21,7 +21,7 @@
 
 ### Hakkımda
 
-- 🎮 Kendimi **Game Developer** olarak tanıtıyorum; kod tarafında Unity ve C# ile vakit geçirmek güzel, ama oyunu da oynamayı seviyorum.
+- 🎮 Kendimi **Game Developer** olarak tanıtıyorum; kod tarafında Unity ve C# ile vakit geçirmek güzel, ama oyunları oynamayı da ihmail etmiyorum.
 - 🔭 Şu sıralar **oyun programlama** üzerine yoğunlaşıyorum; yeni çıkan oyunları ve **demoları** deneyip sektördeki yenilikleri takip ediyorum.
 - 🧳 Bu aralar **şehir şehir geziyorum** — yeni yerler, yeni ilhamlar.
 - 🏆 Öne çıkarılacak sabit bir repo yok; **case’ler** ve portföy işleri tarafı hep hareket halinde, uygun zamanda buraya da taşırım.
