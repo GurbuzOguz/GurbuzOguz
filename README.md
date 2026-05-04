@@ -39,12 +39,7 @@
 ### GitHub istatistikleri
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=GurbuzOguz&show_icons=true&theme=tokyonight&hide_border=true&locale=tr" alt="GitHub istatistikleri" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GurbuzOguz&layout=compact&theme=tokyonight&hide_border=true&locale=tr" alt="En çok kullanılan diller" />
-
 <img height="165" src="https://streak-stats.demolab.com/?user=GurbuzOguz&theme=tokyonight&hide_border=true&locale=tr" alt="Katkı serisi" />
-
 </div>
 
 ### Katkı grafiği — yılan
