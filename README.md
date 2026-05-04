@@ -13,6 +13,12 @@
 
 ---
 
+<div align="center">
+
+<img src="https://media.giphy.com/media/SWoWkN2DExTszqIKEqv/giphy.gif" alt="Kodlama" width="500" />
+
+</div>
+
 ### Hakkımda
 
 - 🎮 Kendimi **Game Developer** olarak tanıtıyorum; kod tarafında Unity ve C# ile vakit geçirmek güzel, ama oyunu da oynamayı seviyorum.
