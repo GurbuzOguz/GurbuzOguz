@@ -42,7 +42,7 @@
 
 ---
 
-### Katkı grafiği — yılan
+### Katkı grafiği — Snake
 
 <div align="center">
 
