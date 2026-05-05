@@ -42,7 +42,7 @@
 
 ---
 
-### Contribution graph — snake
+### Contribution graph — Snake
 
 <div align="center">
 
